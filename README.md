@@ -1,10 +1,9 @@
-<center>
   
 # Hi 👋, I'm Julien
-### The code build the world & the developer build the code ;)
+### The code build the world & the developer build the code
 
-- 👨‍💻 All of my projects are available at [https://julienbonet.fr/](https://julienbonet.fr/)
-- 📫 How to reach me: **julienbonetpro@gmail.com**
+- 👨‍💻 My portfolio [https://julienbonet.fr/](https://julienbonet.fr/)
+- 📫 contact me **julienbonetpro@gmail.com**
 
 ### Connect with me:
 <p align="left">
@@ -50,5 +49,3 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>  
   <img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="Photoshop" width="40" height="40"/>
 </p>
-
-</center>
