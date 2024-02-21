@@ -34,19 +34,20 @@
 ### project management
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Trello.svg" alt="Trello" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
 </p>
 
 ### CMS
 <p align="left">
   <img src="https://camo.githubusercontent.com/87369abc03ef396d3b391e71688e3f4311c03bb9501479acbaff341eadb07c7b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f776f726470726573732f776f726470726573732d69636f6e2e737667" alt="Wordpress" width="40" height="40"/>  
-  <img src="https://www.liblogo.com/lib/divi-logo.html" alt="divi" width="40" height="40"/>
+  <img src="https://www.liblogo.com/img-logo/sml/di2656d517-divi-logo-divi-theme-logo-plansource.webp" alt="divi" width="40" height="40"/>
 </p>
 
 ### design
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>  
   <img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="Photoshop" width="40" height="40"/>
+   <img src="https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg" alt="Premiere" width="40" height="40"/>
 </p>
 
