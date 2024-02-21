@@ -1,7 +1,8 @@
+<center>
+  
 # Hi 👋, I'm Julien
-## The code build the world & the developer build the code ;)
+### The code build the world & the developer build the code ;)
 
-- 💬 Ask me about **React & Express JS**
 - 👨‍💻 All of my projects are available at [https://julienbonet.fr/](https://julienbonet.fr/)
 - 📫 How to reach me: **julienbonetpro@gmail.com**
 
@@ -50,3 +51,4 @@
   <img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
+</center>
