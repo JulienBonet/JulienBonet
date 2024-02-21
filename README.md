@@ -44,10 +44,9 @@
   <img src="https://www.liblogo.com/img-logo/sml/di2656d517-divi-logo-divi-theme-logo-plansource.webp" alt="divi" width="40" height="40"/>
 </p>
 
-### design
+### UX/UI
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>  
   <img src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" alt="Photoshop" width="40" height="40"/>
-   <img src="https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg" alt="Premiere" width="40" height="40"/>
 </p>
 
