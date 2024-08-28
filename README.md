@@ -41,7 +41,7 @@
 
 ### CMS
 <p align="left">
-  <img src="https://www.flaticon.com/fr/icone-gratuite/wordpress_174881](https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="Wordpress" width="40" height="40"/>  
+  <img src="[https://www.flaticon.com/fr/icone-gratuite/wordpress_174881](https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png](https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png)" alt="Wordpress" width="40" height="40"/>  
   <img src="https://www.liblogo.com/img-logo/sml/di2656d517-divi-logo-divi-theme-logo-plansource.webp" alt="divi" width="40" height="40"/>
 </p>
 
