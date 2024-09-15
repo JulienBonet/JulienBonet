@@ -27,7 +27,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" alt="SQL" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40" color="white"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
