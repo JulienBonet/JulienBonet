@@ -38,7 +38,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Trello.svg" alt="Trello" width="40" height="40"/>
   <img src="https://www.pngkey.com/png/detail/223-2233365_daily-scrum-agile-sprint-logo-sprint-scrum.png" alt="Daily Scrum Agile Sprint" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+</p>
+
+### devops
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"" alt="docker" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Trello.svg" alt="Trello" width="40" height="40"/>
+  <img src="https://www.pngkey.com/png/detail/223-2233365_daily-scrum-agile-sprint-logo-sprint-scrum.png" alt="Daily Scrum Agile Sprint" width="40" height="40"/>
 </p>
 
 ### CMS
