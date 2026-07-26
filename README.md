@@ -43,8 +43,7 @@
 ### devops
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Trello.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://www.pngkey.com/png/detail/223-2233365_daily-scrum-agile-sprint-logo-sprint-scrum.png" alt="Daily Scrum Agile Sprint" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </p>
 
 ### CMS
